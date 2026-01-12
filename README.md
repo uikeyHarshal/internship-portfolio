@@ -13,5 +13,5 @@
 *Mentor*: Neela Santosh
 
 Screenshots
-![ss1](portfolio1.pngh)
+![ss1](portfolio1.png)
 ![ss2](portfolio2.png)
