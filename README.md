@@ -14,4 +14,8 @@
 
 Screenshots
 ![ss1](portfolio1.png)
-![ss2](portfolio2.png)
+
+
+
+
+![ss2](portfolio.png)
